@@ -1,0 +1,6 @@
+text,category
+"I was charged twice for my subscription this month",billing
+"My invoice shows the wrong amount",billing
+"The app crashes when I open the settings page",technical
+"I cannot log in, it says my password is wrong",account
+"My order has not arrived after two weeks",delivery
