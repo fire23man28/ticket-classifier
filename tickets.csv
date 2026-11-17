@@ -4,3 +4,51 @@ text,category
 "The app crashes when I open the settings page",technical
 "I cannot log in, it says my password is wrong",account
 "My order has not arrived after two weeks",delivery
+"I was billed twice this month",billing
+"Please refund the extra charge on my card",billing
+"My promo code was not applied at checkout",billing
+"I see an unknown charge on my statement",billing
+"How do I update my payment method",billing
+"My receipt is missing from my account",billing
+"The price shown is different from what I paid",billing
+"I want to cancel my subscription and get a refund",billing
+"Why did my monthly fee go up",billing
+"I was charged after cancelling",billing
+"Can I get an invoice for my last purchase",billing
+"The discount did not show on my bill",billing
+"The app freezes on the home screen",technical
+"I get an error message when uploading a file",technical
+"The website does not load on my phone",technical
+"Notifications stopped working after the update",technical
+"The page shows a blank screen",technical
+"Search returns no results even though the item exists",technical
+"The video player does not start",technical
+"The export button does nothing",technical
+"Images do not display in my profile",technical
+"The app closes every time I press save",technical
+"Dark mode makes some text unreadable",technical
+"The checkout page times out",technical
+"I forgot my password and the reset email never arrives",account
+"My account is locked after too many attempts",account
+"How do I change the email address on my account",account
+"I cannot verify my phone number",account
+"Two factor code is not accepted",account
+"Please delete my account and personal data",account
+"I cannot sign in with Google",account
+"My username is already taken by someone else",account
+"I want to merge two accounts",account
+"I was logged out on every device",account
+"The profile name does not save",account
+"I need to update my shipping address",account
+"My package was marked delivered but I did not receive it",delivery
+"The tracking number shows no updates",delivery
+"My order arrived damaged",delivery
+"I want to change the delivery address",delivery
+"The courier missed my delivery window",delivery
+"My order is missing one item",delivery
+"Shipping costs more than shown at checkout",delivery
+"I need to return an item and get a label",delivery
+"When will my order be shipped",delivery
+"The wrong product was delivered to me",delivery
+"My parcel is stuck at the warehouse",delivery
+"Can I pick up my order in store",delivery
