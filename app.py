@@ -1,6 +1,6 @@
+import joblib
 from fastapi import FastAPI
 from pydantic import BaseModel
-import joblib
 
 app = FastAPI()
 model = joblib.load("model.joblib")
